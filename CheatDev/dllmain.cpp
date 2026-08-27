@@ -4,6 +4,7 @@
 #include "hooks/Hooks.h"
 #include "backends/imgui_impl_win32.h"
 #include "backends/imgui_impl_dx11.h"
+// Build: 2026-08-27 12:57 UTC+2 | Release v2.0
 
 Il2CppResolver g_Il2Cpp;
 HMODULE g_hDllModule = NULL;
